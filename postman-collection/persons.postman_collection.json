@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "8844660e-d651-4ff9-8e03-de35a3799576",
+		"name": "persons",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get-persons",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get-person-by-id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
